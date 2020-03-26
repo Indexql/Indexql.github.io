@@ -10,7 +10,7 @@
   </title>
   <meta name="generator" content="hexo-theme-yilia-plus">
   
-  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="shortcut icon" href="/Roselia.ico" />
   
   
 <link rel="stylesheet" href="/css/main.css">
@@ -101,8 +101,10 @@
 <li>将搭建好的博客部署到 <code>Github</code> （后期可能考虑改为个人主页再部署到服务器上）</li>
 </ul>
 <h2 id="1-Node-js-安装"><a href="#1-Node-js-安装" class="headerlink" title="1. Node.js 安装"></a>1. Node.js 安装</h2><ol>
-<li>访问 <code>https://nodejs.org/en/</code> 并安装 <code>Node.js</code> （我的系统版本为 <code>Windows10 - 64 bit</code> ）</li>
-<li><code>cmd</code> 中输入 <code>node -v</code> 验证是否安装成功（安装版本为 <code>v12.16.1</code> ）</li>
+<li><p>访问 <code>https://nodejs.org/en/</code> 并安装 <code>Node.js</code> （我的系统版本为 <code>Windows10 - 64 bit</code> ）</p>
+</li>
+<li><p><code>cmd</code> 中输入 <code>node -v</code> 验证是否安装成功（安装版本为 <code>v12.16.1</code> ）</p>
+</li>
 </ol>
 <h2 id="2-安装-Hexo-框架"><a href="#2-安装-Hexo-框架" class="headerlink" title="2. 安装 Hexo 框架"></a>2. 安装 Hexo 框架</h2><ol>
 <li>先利用 <code>npm</code> 安装 <code>cnpm</code></li>
@@ -115,8 +117,10 @@
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">cnpm install -g hexo-cli <span class="comment"># Install hexo-cli</span></span><br><span class="line"></span><br><span class="line">hexo -v <span class="comment"># Check the version of Hexo</span></span><br><span class="line">hexo: 4.2.0</span><br><span class="line">hexo-cli: 3.1.0</span><br><span class="line">os: Windows_NT 10.0.18362 win32 x64</span><br><span class="line">node: 12.16.1</span><br><span class="line">v8: 7.8.279.23-node.31</span><br><span class="line">uv: 1.34.0</span><br><span class="line">zlib: 1.2.11</span><br><span class="line">brotli: 1.0.7</span><br><span class="line">ares: 1.15.0</span><br><span class="line">modules: 72</span><br><span class="line">nghttp2: 1.40.0</span><br><span class="line">napi: 5</span><br><span class="line">llhttp: 2.0.4</span><br><span class="line">http_parser: 2.9.3</span><br><span class="line">openssl: 1.1.1d</span><br><span class="line">cldr: 35.1</span><br><span class="line">icu: 64.2</span><br><span class="line">tz: 2019c</span><br><span class="line">unicode: 12.1</span><br></pre></td></tr></table></figure>
 
 <ol start="3">
-<li>建立文件夹 <code>mkdir Blog</code> 并进入</li>
-<li>初始化 <code>hexo</code></li>
+<li><p>建立文件夹 <code>mkdir Blog</code> 并进入</p>
+</li>
+<li><p>初始化 <code>hexo</code></p>
+</li>
 </ol>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init <span class="comment"># Initialize Hexo</span></span><br></pre></td></tr></table></figure>
 
@@ -134,17 +138,22 @@
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo n <span class="string">"从零开始的博客更新日志"</span> <span class="comment"># Create a new post</span></span><br><span class="line">INFO  Created: D:\Blog\<span class="built_in">source</span>\_posts\从零开始的博客更新日志.md</span><br></pre></td></tr></table></figure>
 
 <ol start="2">
-<li>编写 <code>markdown</code> 文件（ <code>Typora</code> / <code>VS Code</code> ）</li>
-<li>清理并生成</li>
+<li><p>编写 <code>markdown</code> 文件（ <code>Typora</code> / <code>VS Code</code> ）</p>
+</li>
+<li><p>清理并生成</p>
+</li>
 </ol>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> /path/to/the/blog <span class="comment"># Cd to the blog directory</span></span><br><span class="line"></span><br><span class="line">hexo clean</span><br><span class="line">INFO  Deleted database.</span><br><span class="line">INFO  Deleted public folder.</span><br><span class="line"></span><br><span class="line">hexo g <span class="comment"># hexo generate</span></span><br><span class="line">INFO  Start processing</span><br><span class="line">INFO  Files loaded <span class="keyword">in</span> 150 ms</span><br><span class="line">INFO  Generated: fancybox/blank.gif</span><br><span class="line">INFO  Generated: index.html</span><br><span class="line">INFO  Generated: fancybox/fancybox_loading@2x.gif</span><br><span class="line">INFO  Generated: fancybox/fancybox_overlay.png</span><br><span class="line">INFO  Generated: fancybox/fancybox_loading.gif</span><br><span class="line">INFO  Generated: archives/index.html</span><br><span class="line">INFO  Generated: fancybox/jquery.fancybox.css</span><br><span class="line">INFO  Generated: archives/2020/03/index.html</span><br><span class="line">INFO  Generated: fancybox/fancybox_sprite@2x.png</span><br><span class="line">INFO  Generated: fancybox/fancybox_sprite.png</span><br><span class="line">INFO  Generated: archives/2020/index.html</span><br><span class="line">INFO  Generated: fancybox/jquery.fancybox.pack.js</span><br><span class="line">INFO  Generated: fancybox/helpers/fancybox_buttons.png</span><br><span class="line">INFO  Generated: css/fonts/fontawesome-webfont.woff</span><br><span class="line">INFO  Generated: fancybox/jquery.fancybox.js</span><br><span class="line">INFO  Generated: css/fonts/fontawesome-webfont.eot</span><br><span class="line">INFO  Generated: fancybox/helpers/jquery.fancybox-buttons.css</span><br><span class="line">INFO  Generated: fancybox/helpers/jquery.fancybox-thumbs.css</span><br><span class="line">INFO  Generated: fancybox/helpers/jquery.fancybox-buttons.js</span><br><span class="line">INFO  Generated: css/style.css</span><br><span class="line">INFO  Generated: js/script.js</span><br><span class="line">INFO  Generated: fancybox/helpers/jquery.fancybox-media.js</span><br><span class="line">INFO  Generated: fancybox/helpers/jquery.fancybox-thumbs.js</span><br><span class="line">INFO  Generated: css/fonts/FontAwesome.otf</span><br><span class="line">INFO  Generated: css/fonts/fontawesome-webfont.svg</span><br><span class="line">INFO  Generated: css/fonts/fontawesome-webfont.ttf</span><br><span class="line">INFO  Generated: css/images/banner.jpg</span><br><span class="line">INFO  Generated: 2020/03/22/hello-world/index.html</span><br><span class="line">INFO  Generated: 2020/03/22/从零开始的博客更新日志/index.html</span><br><span class="line">INFO  31 files generated <span class="keyword">in</span> 513 ms</span><br></pre></td></tr></table></figure>
 
 
 
 <h2 id="4-部署到-Github"><a href="#4-部署到-Github" class="headerlink" title="4. 部署到 Github"></a>4. 部署到 Github</h2><ol>
-<li>登录 <code>Github</code></li>
-<li>新建仓库 <code>indexql.github.io</code></li>
-<li><code>blog</code> 目录下安装 <code>git</code> 部署的插件</li>
+<li><p>登录 <code>Github</code></p>
+</li>
+<li><p>新建仓库 <code>indexql.github.io</code></p>
+</li>
+<li><p><code>blog</code> 目录下安装 <code>git</code> 部署的插件</p>
+</li>
 </ol>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cnpm install --save hexo-deployer-git <span class="comment"># Install git plugin</span></span><br></pre></td></tr></table></figure>
 
@@ -180,12 +189,12 @@
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
 
 <ol start="4">
-<li>预览 <code>localhost:4000</code></li>
-<li>部署到远端</li>
+<li><p>预览 <code>localhost:4000</code></p>
+</li>
+<li><p>部署到远端</p>
+</li>
 </ol>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>
-
-
 
 
 
@@ -196,6 +205,7 @@
 <p>国内若从 <a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank" rel="noopener">Github 地址</a>下载速度太慢的话可以考虑<a href="https://gitee.com/shen-yu/hexo-theme-ayer" target="_blank" rel="noopener">国内镜像</a>下载。</p>
 <p>同样，需要设置 <code>_config.yml</code> 。</p>
 <figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line"><span class="comment">## Plugins: https://hexo.io/plugins/</span></span><br><span class="line"><span class="comment">## Themes: https://hexo.io/themes/</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">hexo-theme-ayer</span> <span class="comment"># Modify this</span></span><br></pre></td></tr></table></figure>
+
 
 
 <h2 id="7-更改配置文件"><a href="#7-更改配置文件" class="headerlink" title="7. 更改配置文件"></a>7. 更改配置文件</h2><p>根目录中 <code>_config.yml</code> 为网站配置文件；主题文件夹 <code>/blog/themes</code> 中的 <code>_config.yml</code> 为主题配置文件。主题文件夹中的配置文件优先级高于网站配置文件，当有重复项时以主题配置文件中的配置信息为准。配置文件是使用 <code>yaml</code> 语法（同时支持 <code>json</code> 语法，但推荐使用前者）。</p>
@@ -225,7 +235,7 @@
 <li><p>在 postTest.md 中插入图片语法为 <code>![ImgDescribe](1.jpg)</code></p>
 </li>
 </ol>
-<h2 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h2><ul>
+<h2 id="10-更改-Ayer-主题配置文件"><a href="#10-更改-Ayer-主题配置文件" class="headerlink" title="10. 更改 Ayer 主题配置文件"></a>10. 更改 Ayer 主题配置文件</h2><h2 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h2><ul>
 <li><a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">Hexo Theme: yilia</a></li>
 <li><a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank" rel="noopener">Hexo Theme: Ayer</a></li>
 <li><a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">Hexo 官方文档</a></li>
@@ -535,9 +545,9 @@
     var typed = new Typed("#subtitle", {
       strings: ['Indexql・上海・バンドリ！· Arcaea・CS', '编程真难啊啊啊啊啊啊啊', '音游真难啊啊啊啊啊啊啊'],
       startDelay: 0,
-      typeSpeed: 200,
+      typeSpeed: 100,
       loop: true,
-      backSpeed: 100,
+      backSpeed: 50,
       showCursor: true
     });
   } catch (err) {
