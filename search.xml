@@ -203,7 +203,10 @@
 <p><img src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/3.png" alt="ykn"></p>
 <h3 id="网易云音乐插件"><a href="#网易云音乐插件" class="headerlink" title="网易云音乐插件"></a>网易云音乐插件</h3><p>加入了网易云音乐的插件，尺寸设定为大尺寸，播放曲目为 <font color="#9400D3">Roselia</font> 的 R。自动播放设置为 <code>false</code> 。</p>
 <h3 id="搜索功能"><a href="#搜索功能" class="headerlink" title="搜索功能"></a>搜索功能</h3><p>启用搜索功能： <code>_congfig.yml</code> 中 <code>search: true</code> 。</p>
-<p>需要安装<a href="https://github.com/theme-next/hexo-generator-searchdb" target="_blank" rel="noopener">hexo-generator-searchdb</a>，运行 <code>cnpm install hexo-generator-searchdb</code> 。</p>
+<p>需要安装 <a href="https://github.com/theme-next/hexo-generator-searchdb" target="_blank" rel="noopener">hexo-generator-searchdb</a>，运行 <code>cnpm install hexo-generator-searchdb --save</code> 。</p>
+<p><img src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/4.png" alt="Test"></p>
+<p>如图所示为正确的搜索测试界面。</p>
+<h3 id="RSS订阅"><a href="#RSS订阅" class="headerlink" title="RSS订阅"></a>RSS订阅</h3><p>需要安装 <a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="noopener">hexo-generator-feed</a>，运行 <code>cnpm install hexo-generator-feed --save</code> 。</p>
 <h2 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h2><ul>
 <li><a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">Hexo Theme: yilia</a></li>
 <li><a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank" rel="noopener">Hexo Theme: Ayer</a></li>
