@@ -359,7 +359,7 @@
 <ol start="6">
 <li>访问 <code>indexql.github.io</code></li>
 </ol>
-<h2 id="5-更换-hexo-theme-yilia-主题"><a href="#5-更换-hexo-theme-yilia-主题" class="headerlink" title="5. 更换 hexo-theme-yilia 主题"></a>5. 更换 hexo-theme-yilia 主题</h2><ol>
+<h2 id="5-更换-hexo-theme-yilia-主题-UPDATED-TO-Ayer"><a href="#5-更换-hexo-theme-yilia-主题-UPDATED-TO-Ayer" class="headerlink" title="5. 更换 hexo-theme-yilia 主题 UPDATED TO Ayer"></a>5. 更换 hexo-theme-yilia 主题 <font color="red">UPDATED TO Ayer</font></h2><ol>
 <li>下载主题</li>
 </ol>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/litten/hexo-theme-yilia themes/yilia <span class="comment"># Clone to /blog/themes/yilia</span></span><br></pre></td></tr></table></figure>
@@ -384,7 +384,7 @@
 
 
 
-<h2 id="6-更换-Ayer-主题"><a href="#6-更换-Ayer-主题" class="headerlink" title="6. 更换 Ayer 主题"></a>6. 更换 Ayer 主题</h2><blockquote>
+<h2 id="6-更换-Ayer-主题-UPDATED-TO-Butterfly"><a href="#6-更换-Ayer-主题-UPDATED-TO-Butterfly" class="headerlink" title="6. 更换 Ayer 主题 UPDATED TO Butterfly"></a>6. 更换 Ayer 主题 <font color="red">UPDATED TO Butterfly</font></h2><blockquote>
 <p>Ayer 是一个干净且优雅的 Hexo 主题。<a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank" rel="noopener">Ayer</a> 在马来语中是“水”的意思，在西班牙语中是“昨天”的意思。</p>
 </blockquote>
 <p>在 <a href="https://hexo.io/themes/" target="_blank" rel="noopener">Hexo 主题官网</a>稍微逛了一会儿，选出了能基本符合我审美要求并且比较简约的主题，就是这款 Ayer。非常喜欢作者关于 HomePage 和侧边栏的设计。</p>
@@ -432,6 +432,17 @@
 <p><img src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/4.png" alt="Test"></p>
 <p>如图所示为正确的搜索测试界面。</p>
 <h3 id="RSS订阅"><a href="#RSS订阅" class="headerlink" title="RSS订阅"></a>RSS订阅</h3><p>需要安装 <a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="noopener">hexo-generator-feed</a>，运行 <code>cnpm install hexo-generator-feed --save</code> 。</p>
+<p>在 <code>_config.yml</code> 中设置插件如下：</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">feed:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">atom</span> <span class="comment"># RSS 的类型(atom/rss2)</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">atom.xml</span> <span class="comment"># 文件路径,默认是 atom.xml/rss2.xml</span></span><br><span class="line">  <span class="attr">limit:</span> <span class="number">20</span> <span class="comment"># 展示文章的数量,使用 0 或者 false 代表展示全部</span></span><br><span class="line">  <span class="attr">hub:</span></span><br></pre></td></tr></table></figure>
+
+<p>并修改 <code>url</code> 如下：</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">url:</span> <span class="string">http://indexql.github.io/</span></span><br></pre></td></tr></table></figure>
+
+<p>现在可以通过首页的 RSS 图标链接获取链接，本站链接为 <code>http://indexql.github.io/atom.xml</code> 。</p>
+<h2 id="评论区-（TODO）"><a href="#评论区-（TODO）" class="headerlink" title="评论区 （TODO）"></a>评论区 <font color="red">（TODO）</font></h2><p>评论区配置引入 Valine。</p>
+<blockquote>
+<p>Valine 诞生于2017年8月7日，是一款基于LeanCloud的快速、简洁且高效的无后端评论系统。理论上支持但不限于静态博客，目前已有Hexo、Jekyll、Typecho、Hugo、Ghost 等博客程序在使用Valine。</p>
+</blockquote>
 <h2 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h2><ul>
 <li><a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">Hexo Theme: yilia</a></li>
 <li><a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank" rel="noopener">Hexo Theme: Ayer</a></li>
@@ -440,6 +451,7 @@
 <li><a href="https://wangxiaoyu-go.github.io/2018/11/18/hexo-asset-image/" target="_blank" rel="noopener">Hexo 中插入图片 hexo asset image</a></li>
 <li><a href="https://blog.csdn.net/zhanghongjie0302/article/details/20837671" target="_blank" rel="noopener">绝对路径和相对路径</a></li>
 <li><a href="https://shen-yu.gitee.io/2019/ayer/" target="_blank" rel="noopener">Ayer 中文说明</a></li>
+<li><a href="https://yuchen-lea.github.io/2016-01-18-add-rss-to-hexo/" target="_blank" rel="noopener">给 Hexo 添加 RSS</a></li>
 </ul>
 
       
