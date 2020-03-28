@@ -9,15 +9,15 @@
 </blockquote>
 <p>我是今年的两月初才开始玩 Arcaea 的。是我见过的比较硬核的音游。Emmmmmm 也是我之前玩的音游都太休闲了（特指邦邦）。</p>
 <p>Arcaea 的适应花了大概一个月时间，所以现在能 FR 这首 10.4 定数的歌对我还是一个很大的鼓舞。这几天的上头死磕终于有所回报，一直以来的努力也没有全部木大。（嗯？）</p>
-<p><img src="/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/2.png" alt="Singularity Song Cover"></p>
+<p><img src="/" class="lazyload" data-src="/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/2.png"  alt="Singularity Song Cover"></p>
 <p>其实要讲的是，第一次看到 Singularity 并不是在 Arcaea。而是在 2019 的第七届 RDMA 编程挑战赛，The 7th RDMA Programming Competition。这是由 HPC-AI Advisory Council 主办的面向亚太地区的竞赛。我们和清华大学并列二等奖，而一等奖则是中科大，膜。</p>
 <p>题目是「Demonstrate the use of RDMA for HPC applications in a container environment」。而当时，组委会给出的二选一的 Container Solution 分别为 Docker 和 Singularity，而我们经过分析选择了前者。</p>
-<p><img src="/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/1.jpg" alt="Singularity Container"></p>
+<p><img src="/" class="lazyload" data-src="/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/1.jpg"  alt="Singularity Container"></p>
 <p>而在 Arcaea 中，当朋友（@星空夜）第一次给我推荐 Singularity 我就入迷了，简而言之就是好听！带感！天地交互帅！然而实际练起来却的确是地狱级的。所幸，坚持到现在我终于能把它 FR 了。</p>
 <p>虽然 Arcaea 不是主业，但最近因为兴趣而认真起来的进步效率令人欣喜。当初 RDMA 编程挑战赛的遗憾在 Arcaea 中得以补偿，让我不由得相信努力的意义，希望在学业上也能这样找到兴趣、提高效率。首先从弥补上应补的课程，提升到应有的水平开始！</p>
 <p>静下心来，路要一步一步走。</p>
 <p>最后补一张结算图。</p>
-<p><img src="/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/3.jpg" alt="Singularity Results"></p>
+<p><img src="/" class="lazyload" data-src="/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/3.jpg"  alt="Singularity Results"></p>
 <h3 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h3><ul>
 <li><a href="https://zh.wikipedia.org/wiki/技术奇异点" target="_blank" rel="noopener">https://zh.wikipedia.org/wiki/%E6%8A%80%E6%9C%AF%E5%A5%87%E5%BC%82%E7%82%B9</a></li>
 </ul>
@@ -196,15 +196,15 @@
 <li><p>在 postTest.md 中插入图片语法为 <code>![ImgDescribe](1.jpg)</code></p>
 </li>
 </ol>
-<h2 id="10-对-Ayer-主题进行配置更改"><a href="#10-对-Ayer-主题进行配置更改" class="headerlink" title="10. 对 Ayer 主题进行配置更改"></a>10. 对 Ayer 主题进行配置更改</h2><p>参考 <a href="https://shen-yu.gitee.io/2019/ayer/" target="_blank" rel="noopener">Ayer 中文说明</a>进行对 Ayer 主题配置文件的设置。</p>
+<h2 id="10-对-Ayer-主题进行配置更改-TODO"><a href="#10-对-Ayer-主题进行配置更改-TODO" class="headerlink" title="10. 对 Ayer 主题进行配置更改 (TODO)"></a>10. 对 Ayer 主题进行配置更改 <font color="red">(TODO)</font></h2><p>参考 <a href="https://shen-yu.gitee.io/2019/ayer/" target="_blank" rel="noopener">Ayer 中文说明</a>进行对 Ayer 主题配置文件的设置。</p>
 <h3 id="网站-Icon"><a href="#网站-Icon" class="headerlink" title="网站 Icon"></a>网站 Icon</h3><p>网站图标使用了最喜欢的 <font color="#9400D3">Roselia</font> 的 Violet，图像经过<a href="https://www.bitbug.net/" target="_blank" rel="noopener">在线制作 ico 图标网站</a>转换得到。</p>
-<p><img src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/1.png" alt="Roselia Violet"></p>
+<p><img src="/" class="lazyload" data-src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/1.png"  alt="Roselia Violet"></p>
 <h3 id="侧边栏-Logo"><a href="#侧边栏-Logo" class="headerlink" title="侧边栏 Logo"></a>侧边栏 Logo</h3><p>侧边栏 Logo 暂时使用ガルパピコ的<font color="purple">湊友希那</font>玩猫猫图。图像经过<a href="https://www.asqql.com/gifyxtp/" target="_blank" rel="noopener">圆形头像在线制作工具</a>转换得到。未来打算制作 SVG Logo。</p>
-<p><img src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/3.png" alt="ykn"></p>
+<p><img src="/" class="lazyload" data-src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/3.png"  alt="ykn"></p>
 <h3 id="网易云音乐插件"><a href="#网易云音乐插件" class="headerlink" title="网易云音乐插件"></a>网易云音乐插件</h3><p>加入了网易云音乐的插件，尺寸设定为大尺寸，播放曲目为 <font color="#9400D3">Roselia</font> 的 R。自动播放设置为 <code>false</code> 。</p>
 <h3 id="搜索功能"><a href="#搜索功能" class="headerlink" title="搜索功能"></a>搜索功能</h3><p>启用搜索功能： <code>_congfig.yml</code> 中 <code>search: true</code> 。</p>
 <p>需要安装 <a href="https://github.com/theme-next/hexo-generator-searchdb" target="_blank" rel="noopener">hexo-generator-searchdb</a>，运行 <code>cnpm install hexo-generator-searchdb --save</code> 。</p>
-<p><img src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/4.png" alt="Test"></p>
+<p><img src="/" class="lazyload" data-src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/4.png"  alt="Test"></p>
 <p>如图所示为正确的搜索测试界面。</p>
 <h3 id="RSS订阅"><a href="#RSS订阅" class="headerlink" title="RSS订阅"></a>RSS订阅</h3><p>需要安装 <a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="noopener">hexo-generator-feed</a>，运行 <code>cnpm install hexo-generator-feed --save</code> 。</p>
 <p>在 <code>_config.yml</code> 中设置插件如下：</p>
@@ -214,19 +214,85 @@
 <figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">url:</span> <span class="string">http://indexql.github.io/</span></span><br></pre></td></tr></table></figure>
 
 <p>现在可以通过首页的 RSS 图标链接获取链接，本站链接为 <code>http://indexql.github.io/atom.xml</code> 。</p>
-<h2 id="评论区-（TODO）"><a href="#评论区-（TODO）" class="headerlink" title="评论区 （TODO）"></a>评论区 <font color="red">（TODO）</font></h2><p>评论区配置引入 Valine。</p>
+<h3 id="评论区-（TODO）"><a href="#评论区-（TODO）" class="headerlink" title="评论区 （TODO）"></a>评论区 <font color="red">（TODO）</font></h3><p>评论区配置引入 Valine。</p>
+<blockquote>
+<p>Valine 诞生于2017年8月7日，是一款基于LeanCloud的快速、简洁且高效的无后端评论系统。理论上支持但不限于静态博客，目前已有Hexo、Jekyll、Typecho、Hugo、Ghost 等博客程序在使用Valine。</p>
+</blockquote>
+<h2 id="11-更换主题为-Butterfly"><a href="#11-更换主题为-Butterfly" class="headerlink" title="11. 更换主题为 Butterfly"></a>11. 更换主题为 Butterfly</h2><p>Hexo 主题 <a href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" rel="noopener">Butterfly</a> 是基于 <a href="https://github.com/Molunerfinn/hexo-theme-melody" target="_blank" rel="noopener">hexo-theme-melody</a> 制作的一款主题。</p>
+<p>同样，需要设置 <code>_config.yml</code> 。</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line"><span class="comment">## Plugins: https://hexo.io/plugins/</span></span><br><span class="line"><span class="comment">## Themes: https://hexo.io/themes/</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">Butterfly</span> <span class="comment"># Modify this</span></span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="下载主题"><a href="#下载主题" class="headerlink" title="下载主题"></a>下载主题</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> -b master https://github.com/jerryc1227/hexo-theme-butterfly.git themes/Butterfly <span class="comment"># 下载 Butterfly 主题到 themes 文件夹下</span></span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="安装-pug-以及-stylus-的渲染器"><a href="#安装-pug-以及-stylus-的渲染器" class="headerlink" title="安装 pug 以及 stylus 的渲染器"></a>安装 pug 以及 stylus 的渲染器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">cnpm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="清理并生成"><a href="#清理并生成" class="headerlink" title="清理并生成"></a>清理并生成</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo cl &amp;&amp; hexo g &amp;&amp; hexo s</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<h2 id="12-更换域名-（TODO）"><a href="#12-更换域名-（TODO）" class="headerlink" title="12. 更换域名 （TODO）"></a>12. 更换域名 <font color="red">（TODO）</font></h2><p>购买域名并解析。</p>
+<h2 id="13-对-Butterfly-主题进行配置更改"><a href="#13-对-Butterfly-主题进行配置更改" class="headerlink" title="13. 对 Butterfly 主题进行配置更改"></a>13. 对 Butterfly 主题进行配置更改</h2><p>参考 <a href="https://blog.zplayer.cloud/hexo/Hexo_blog_build/" target="_blank" rel="noopener">Hexo 博客搭建配置完全指南</a>进行对 Butterfly 主题配置文件的设置。配置项大多都在 <code>/themes/Butterfly/_config.yml</code> 这个文件中。</p>
+<h3 id="更改-Banner-图"><a href="#更改-Banner-图" class="headerlink" title="更改 Banner 图"></a>更改 Banner 图</h3><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># if the banner of page not setting,it will show the top_img</span></span><br><span class="line"><span class="attr">default_top_img:</span> <span class="string">/img/cover.jpg</span> <span class="comment"># Modify this</span></span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="更改-Avatar"><a href="#更改-Avatar" class="headerlink" title="更改 Avatar"></a>更改 Avatar</h3><p>Avatar 暂时使用ガルパピコ的<font color="purple">湊友希那</font>玩猫猫图。图像经过<a href="https://www.asqql.com/gifyxtp/" target="_blank" rel="noopener">圆形头像在线制作工具</a>转换得到。未来打算制作 SVG Logo。</p>
+<p><img src="/" class="lazyload" data-src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/3.png"  alt="ykn"></p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">avatar:</span></span><br><span class="line">  <span class="attr">img:</span> <span class="string">/img/ykn_circle.png</span></span><br><span class="line">  <span class="attr">effect:</span> <span class="literal">false</span> <span class="comment"># 头像会一直转圈</span></span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="网站-Icon-1"><a href="#网站-Icon-1" class="headerlink" title="网站 Icon"></a>网站 Icon</h3><p>网站图标使用了最喜欢的 <font color="#9400D3">Roselia</font> 的 Violet，图像经过<a href="https://www.bitbug.net/" target="_blank" rel="noopener">在线制作 ico 图标网站</a>转换得到。</p>
+<p><img src="/" class="lazyload" data-src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/1.png"  alt="Roselia Violet"></p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Favicon</span></span><br><span class="line"><span class="comment"># ---------------</span></span><br><span class="line"><span class="attr">favicon:</span> <span class="string">Roselia.ico</span></span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="Social"><a href="#Social" class="headerlink" title="Social"></a>Social</h3><p>更改社交信息：Github、邮箱、RSS 等。</p>
+<h3 id="背景特效"><a href="#背景特效" class="headerlink" title="背景特效"></a>背景特效</h3><p>我开启了动态彩带这一项。防止卡顿，建议只开启一项。</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 动态彩带</span></span><br><span class="line"><span class="attr">canvas_ribbon_piao:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">mobile:</span> <span class="literal">false</span> <span class="comment"># false： 手机端不显示</span></span><br><span class="line">  				<span class="comment"># true：	 手机端显示</span></span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<h3 id="网易云音乐插件-1"><a href="#网易云音乐插件-1" class="headerlink" title="网易云音乐插件"></a>网易云音乐插件</h3><p>加入了网易云音乐的插件，尺寸设定为大尺寸，播放曲目为 <font color="#9400D3">Roselia</font> 的 R。自动播放设置为 <code>false</code> 。</p>
+<h3 id="搜索功能-1"><a href="#搜索功能-1" class="headerlink" title="搜索功能"></a>搜索功能</h3><p>启用搜索功能： <code>_congfig.yml</code> 中 <code>search: true</code> 。</p>
+<p>需要安装 <a href="https://github.com/theme-next/hexo-generator-searchdb" target="_blank" rel="noopener">hexo-generator-searchdb</a>，运行 <code>cnpm install hexo-generator-searchdb --save</code> 。</p>
+<p><img src="/" class="lazyload" data-src="/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/4.png"  alt="Test"></p>
+<p>如图所示为正确的搜索测试界面。</p>
+<h3 id="RSS订阅-1"><a href="#RSS订阅-1" class="headerlink" title="RSS订阅"></a>RSS订阅</h3><p>需要安装 <a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="noopener">hexo-generator-feed</a>，运行 <code>cnpm install hexo-generator-feed --save</code> 。</p>
+<p>在 <code>_config.yml</code> 中设置插件如下：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">feed:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">atom</span> <span class="comment"># RSS 的类型(atom/rss2)</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">atom.xml</span> <span class="comment"># 文件路径,默认是 atom.xml/rss2.xml</span></span><br><span class="line">  <span class="attr">limit:</span> <span class="number">20</span> <span class="comment"># 展示文章的数量,使用 0 或者 false 代表展示全部</span></span><br><span class="line">  <span class="attr">hub:</span></span><br></pre></td></tr></table></figure>
+
+<p>并修改 <code>url</code> 如下：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">url:</span> <span class="string">http://indexql.github.io/</span></span><br></pre></td></tr></table></figure>
+
+<p>现在可以通过首页的 RSS 图标链接获取链接，本站链接为 <code>http://indexql.github.io/atom.xml</code> 。</p>
+<h3 id="评论区-（TODO）-1"><a href="#评论区-（TODO）-1" class="headerlink" title="评论区 （TODO）"></a>评论区 <font color="red">（TODO）</font></h3><p>评论区配置引入 Valine。</p>
 <blockquote>
 <p>Valine 诞生于2017年8月7日，是一款基于LeanCloud的快速、简洁且高效的无后端评论系统。理论上支持但不限于静态博客，目前已有Hexo、Jekyll、Typecho、Hugo、Ghost 等博客程序在使用Valine。</p>
 </blockquote>
 <h2 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h2><ul>
 <li><a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">Hexo Theme: yilia</a></li>
 <li><a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank" rel="noopener">Hexo Theme: Ayer</a></li>
+<li><a href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" rel="noopener">Hexo Theme: Butterfly</a></li>
 <li><a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">Hexo 官方文档</a></li>
 <li><a href="https://merrier.wang/20190111/image-skills-in-hexo.html" target="_blank" rel="noopener">Hexo 中图片处理正确姿势</a></li>
 <li><a href="https://wangxiaoyu-go.github.io/2018/11/18/hexo-asset-image/" target="_blank" rel="noopener">Hexo 中插入图片 hexo asset image</a></li>
 <li><a href="https://blog.csdn.net/zhanghongjie0302/article/details/20837671" target="_blank" rel="noopener">绝对路径和相对路径</a></li>
 <li><a href="https://shen-yu.gitee.io/2019/ayer/" target="_blank" rel="noopener">Ayer 中文说明</a></li>
 <li><a href="https://yuchen-lea.github.io/2016-01-18-add-rss-to-hexo/" target="_blank" rel="noopener">给 Hexo 添加 RSS</a></li>
+<li><a href="https://blog.zplayer.cloud/hexo/Hexo_blog_build" target="_blank" rel="noopener">史上最全的 Hexo 博客搭建配置完全指南</a></li>
+<li><a href="https://jerryc.me/categories/Butterfly%E6%96%87%E6%AA%94/" target="_blank" rel="noopener">JerryC - Butterfly 文档</a></li>
 </ul>
 ]]></content>
       <categories>
