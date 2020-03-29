@@ -127,6 +127,10 @@
 <blockquote>
 <p>除了 YAML 外，你也可以使用 JSON 来编写 Front-matter，只要将 <code>---</code> 代换成 <code>;;;</code> 即可。</p>
 </blockquote>
+<h3 id="启用标签"><a href="#启用标签" class="headerlink" title="启用标签"></a>启用标签</h3><p>在 Front-matter 中，若要使用 Tags,应以以下格式写入：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">tags:</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">tag1</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">tag2</span></span><br></pre></td></tr></table></figure>
+
+<p>发布时会自动生成 Tags。</p>
 <h3 id="部署到-Github"><a href="#部署到-Github" class="headerlink" title="部署到 Github"></a>部署到 Github</h3><ol>
 <li><p>登录 <code>Github</code></p>
 </li>
@@ -303,5 +307,9 @@
       <categories>
         <category>Hexo</category>
       </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Blog</tag>
+      </tags>
   </entry>
 </search>
