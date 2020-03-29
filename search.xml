@@ -251,8 +251,6 @@
 <p>然后进入应用进入 设置 → 应用 Keys 即可获得 <code>appId</code> 与 <code>appKey</code> ，如下图所示。</p>
 <p><img src="/" class="lazyload" data-src="http://q7y4py6en.bkt.clouddn.com/static/images/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/6.png"  alt="Get Valine Keys"></p>
 <p>评论区存储管理在 <a href="https://www.leancloud.cn/" target="_blank" rel="noopener">LeanCloud</a> 上进行。</p>
-<blockquote>
-</blockquote>
 <h3 id="启用文件资源文件夹"><a href="#启用文件资源文件夹" class="headerlink" title="启用文件资源文件夹"></a>启用文件资源文件夹</h3><blockquote>
 <p>对于那些想要更有规律地提供图片和其他资源以及想要将他们的资源分布在各个文章上的人来说，Hexo 也提供了更组织化的方式来管理资源。这个稍微有些复杂但是管理资源非常方便的功能可以通过将 <code>config.yml</code> 文件中的 <code>post_asset_folder</code> 选项设为 <code>true</code> 来打开。</p>
 </blockquote>
