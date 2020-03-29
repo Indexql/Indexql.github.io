@@ -18,6 +18,8 @@
 <p>静下心来，路要一步一步走。</p>
 <p>最后补一张结算图。</p>
 <p><img src="/" class="lazyload" data-src="/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/3.jpg"  alt="Singularity Results"></p>
+ class="lazyload" data-src="http://q7y4py6en.bkt.clouddn.com/static/images/top.png" <img src="/">
+
 <h3 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h3><ul>
 <li><a href="https://zh.wikipedia.org/wiki/技术奇异点" target="_blank" rel="noopener">https://zh.wikipedia.org/wiki/%E6%8A%80%E6%9C%AF%E5%A5%87%E5%BC%82%E7%82%B9</a></li>
 </ul>
@@ -270,8 +272,11 @@
 <figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">url:</span> <span class="string">http://indexql.github.io/</span></span><br></pre></td></tr></table></figure>
 
 <p>现在可以通过首页的 RSS 图标链接获取链接，本站链接为 <code>http://indexql.github.io/atom.xml</code> 。</p>
-<h3 id="生成子菜单"><a href="#生成子菜单" class="headerlink" title="生成子菜单"></a>生成子菜单</h3><p>在 Bash 中运行例如：</p>
+<h3 id="生成子页面"><a href="#生成子页面" class="headerlink" title="生成子页面"></a>生成子页面</h3><p>在 Bash 中运行例如：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page tags <span class="comment"># 生成 tags 子页面</span></span><br><span class="line">hexo new page categories <span class="comment"># 生成 categories 子页面</span></span><br></pre></td></tr></table></figure>
+
+<p>对应的，在 <code>tags</code> 和 <code>categories</code> 新建的 markdown 页面中设置 <code>Front-matter</code> 。例如 <code>tags/index.md</code> 中：</p>
+<figure class="highlight md"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: Tags</span><br><span class="line">date: 2020-03-28 15:45:56</span><br><span class="line">type: "tags"</span><br><span class="line">top<span class="emphasis">_img: /img/tags_</span>cover.jpg</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 
 
 
