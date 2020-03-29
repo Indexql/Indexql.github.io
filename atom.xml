@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://indexql.world/"/>
-  <updated>2020-03-29T09:51:50.069Z</updated>
+  <updated>2020-03-29T16:37:05.521Z</updated>
   <id>http://indexql.world/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://indexql.world/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/"/>
     <id>http://indexql.world/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/</id>
     <published>2020-03-24T15:38:29.000Z</published>
-    <updated>2020-03-29T09:51:50.069Z</updated>
+    <updated>2020-03-29T16:37:05.521Z</updated>
     
     <content type="html"><![CDATA[<p>引用维基上的概念：</p><blockquote><p><strong>Singularity（奇点）</strong>，出自<a href="https://zh.wikipedia.org/wiki/奇點" target="_blank" rel="noopener">奇点</a>理论；根据<a href="https://zh.wikipedia.org/wiki/技术发展史" target="_blank" rel="noopener">技术发展史</a>总结出的观点，认为人类正在接近一个使得现有技术被完全抛弃或者人类文明被完全颠覆的事件点，在这个事件点以后的事件就像黑洞的<a href="https://zh.wikipedia.org/wiki/事件视界" target="_blank" rel="noopener">事件视界</a>一样完全无法预测。例如，<a href="https://zh.wikipedia.org/wiki/意识上传" target="_blank" rel="noopener">意识上传</a>技术可能使人类的意识摆脱有机体的约束，在这个奇点之后的人类文明是一种现在完全无法理解的水平。</p></blockquote><p>我是今年的两月初才开始玩 Arcaea 的。是我见过的比较硬核的音游。Emmmmmm 也是我之前玩的音游都太休闲了（特指邦邦）。</p><p>Arcaea 的适应花了大概一个月时间，所以现在能 FR 这首 10.4 定数的歌对我还是一个很大的鼓舞。这几天的上头死磕终于有所回报，一直以来的努力也没有全部木大。（嗯？）</p><p><img src="/" class="lazyload" data-src="http://q7y4py6en.bkt.clouddn.com/static/images/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/2.png"  alt="Singularity Song Cover"></p><p>其实要讲的是，第一次看到 Singularity 并不是在 Arcaea。而是在 2019 的第七届 RDMA 编程挑战赛，The 7th RDMA Programming Competition。这是由 HPC-AI Advisory Council 主办的面向亚太地区的竞赛。我们和清华大学并列二等奖，而一等奖则是中科大，膜。</p><p>题目是「Demonstrate the use of RDMA for HPC applications in a container environment」。而当时，组委会给出的二选一的 Container Solution 分别为 Docker 和 Singularity，而我们经过分析选择了前者。</p><p><img src="/" class="lazyload" data-src="http://q7y4py6en.bkt.clouddn.com/static/images/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/1.jpg"  alt="Singularity Container"></p><p>而在 Arcaea 中，当朋友（@星空夜）第一次给我推荐 Singularity 我就入迷了，简而言之就是好听！带感！天地交互帅！然而实际练起来却的确是地狱级的。所幸，坚持到现在我终于能把它 FR 了。</p><p>虽然 Arcaea 不是主业，但最近因为兴趣而认真起来的进步效率令人欣喜。当初 RDMA 编程挑战赛的遗憾在 Arcaea 中得以补偿，让我不由得相信努力的意义，希望在学业上也能这样找到兴趣、提高效率。首先从弥补上应补的课程，提升到应有的水平开始！</p><p>静下心来，路要一步一步走。</p><p>最后补一张结算图。</p><p><img src="/" class="lazyload" data-src="http://q7y4py6en.bkt.clouddn.com/static/images/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/3.jpg"  alt="Singularity Results"></p><h3 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h3><ul><li><a href="https://zh.wikipedia.org/wiki/技术奇异点" target="_blank" rel="noopener">https://zh.wikipedia.org/wiki/%E6%8A%80%E6%9C%AF%E5%A5%87%E5%BC%82%E7%82%B9</a></li></ul>]]></content>
     
@@ -40,6 +40,10 @@
       <category term="Games" scheme="http://indexql.world/categories/Games/"/>
     
     
+      <category term="Music Games" scheme="http://indexql.world/tags/Music-Games/"/>
+    
+      <category term="Arcaea" scheme="http://indexql.world/tags/Arcaea/"/>
+    
   </entry>
   
   <entry>
@@ -47,7 +51,7 @@
     <link href="http://indexql.world/2020/03/23/%E5%85%B3%E4%BA%8E%E6%96%87%E5%AD%97%E6%8E%92%E7%89%88/"/>
     <id>http://indexql.world/2020/03/23/%E5%85%B3%E4%BA%8E%E6%96%87%E5%AD%97%E6%8E%92%E7%89%88/</id>
     <published>2020-03-23T14:12:34.000Z</published>
-    <updated>2020-03-29T12:36:00.481Z</updated>
+    <updated>2020-03-29T16:36:36.868Z</updated>
     
     <content type="html"><![CDATA[<p>博客的文字排版问题，主要表现为<font color="red">「中英文混排时中文与英文之间是否要有空格」</font>这个问题。</p><h3 id="「日常」"><a href="#「日常」" class="headerlink" title="「日常」"></a>「日常」</h3><p>首先，个人习惯在聊天过程中不加空格。苹果在 iOS 13 Beta 4 的更新中加入了中英文混排时自动增加显示间距的实现，终结了长期以来关于要不要添加空格的争论。我试用过一段时间的手动添加空格，倒不是说麻烦，只不过利用手机聊天的时候，苹果已经开启了最优适配。而另一方面，用户其实并不能识别出有没有加空格，我甚至有时候会通过删除撤销来测试有没有空格的存在。我觉得有点多此一举，之后就都不加空格了。</p><h3 id="「正式」"><a href="#「正式」" class="headerlink" title="「正式」"></a>「正式」</h3><p>但博客相比日常的聊天还是比较正式的文档类型，从自己的强迫症来说，作为有 Publish 或者 Post 性质的文章，其规范性还是应当被重视的。所以查阅了知乎和其他一些网站相关资料，得出的结论是：</p><blockquote><p>至今<strong><font color="red">没有规范，只有习惯</font></strong>。  </p></blockquote><p>Adobe InDesign、Microsoft Word 等对中文与西文（这里用「西文」来泛指用空格分词的外文）混合排版支持较好的软件，都默认增大汉字和西文的间距。InDesign 的默认设置是 1/4 的全角空格宽度（遵从 JIS），也就是约等于一个半角空格。</p><p>但大多数情况下我们没有这样专业排版软件的支持，只能手动控制。这种时候，比较在意文字设计（typography，又译「字体排印」）的团队或个人往往都在操作系统界面或网站中的汉字和西文之间插入一个半角空格。包括 Apple、Microsoft、Google、Adobe……</p><p>回想一下，在用苹果设备的时候，Google Pack 的时候，甚至平时 Word 打字的时候确实在体验上是有所提升的。而 Adobe 目前只会一点简单的 PS 和 PR，注意力都集中在任务本身。不过话又说回来，平时不注意的小细节就是优秀的大公司在设计方面的匠心所在，平时就被人一眼看出、被人诟病的 UI 才是其他追赶者应当反思的。换句话说，注意不到的细节值得称赞，用得难受的说明有问题。</p><p>感谢大佬们的讨论给了我一点启发，也解决了我的强迫症。</p><p>综上，我还是打算在此借鉴采用以下方案：</p><blockquote><p><strong>中文正文及标题中出现的英文及数字应该使用半角方式输入，并且在左右各留一个半角空格。如果这些这些半角英文及数字的左边或者右边紧接着任何的中文全角括号或者其他标点符号的话，则不需要加入半角空格。特殊地，在代码两侧任何情况下都加入一个半角空格。譬如 <code>example</code> 。</strong></p></blockquote><h3 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h3><ul><li><p><a href="https://www.zhihu.com/question/19587406" target="_blank" rel="noopener">https://www.zhihu.com/question/19587406</a></p></li><li><p><a href="https://news.mydrivers.com/1/630/630191.htm" target="_blank" rel="noopener">https://news.mydrivers.com/1/630/630191.htm</a></p></li></ul>]]></content>
     
@@ -64,6 +68,8 @@
     
       <category term="Free Talk" scheme="http://indexql.world/categories/Free-Talk/"/>
     
+    
+      <category term="iOS" scheme="http://indexql.world/tags/iOS/"/>
     
   </entry>
   
