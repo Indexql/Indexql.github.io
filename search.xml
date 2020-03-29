@@ -240,13 +240,13 @@
 
 <h2 id="12-更换域名-（TODO）"><a href="#12-更换域名-（TODO）" class="headerlink" title="12. 更换域名 （TODO）"></a>12. 更换域名 <font color="red">（TODO）</font></h2><p>购买域名并解析。</p>
 <h2 id="13-对-Butterfly-主题进行配置更改"><a href="#13-对-Butterfly-主题进行配置更改" class="headerlink" title="13. 对 Butterfly 主题进行配置更改"></a>13. 对 Butterfly 主题进行配置更改</h2><p>参考 <a href="https://blog.zplayer.cloud/hexo/Hexo_blog_build/" target="_blank" rel="noopener">Hexo 博客搭建配置完全指南</a>进行对 Butterfly 主题配置文件的设置。配置项大多都在 <code>/themes/Butterfly/_config.yml</code> 这个文件中。</p>
-<h3 id="更改-Banner-图"><a href="#更改-Banner-图" class="headerlink" title="更改 Banner 图"></a>更改 Banner 图</h3><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># if the banner of page not setting,it will show the top_img</span></span><br><span class="line"><span class="attr">default_top_img:</span> <span class="string">/img/cover.jpg</span> <span class="comment"># Modify this</span></span><br></pre></td></tr></table></figure>
+<h3 id="更改-Banner-图"><a href="#更改-Banner-图" class="headerlink" title="更改 Banner 图"></a>更改 Banner 图</h3><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># if the banner of page not setting,it will show the top_img</span></span><br><span class="line"><span class="attr">default_top_img:</span> <span class="string">http://q7y4py6en.bkt.clouddn.com/static/images/theme/cover.jpg</span> <span class="comment"># Modify this</span></span><br></pre></td></tr></table></figure>
 
 
 
 <h3 id="更改-Avatar"><a href="#更改-Avatar" class="headerlink" title="更改 Avatar"></a>更改 Avatar</h3><p>Avatar 暂时使用ガルパピコ的<font color="purple">湊友希那</font>玩猫猫图。图像经过<a href="https://www.asqql.com/gifyxtp/" target="_blank" rel="noopener">圆形头像在线制作工具</a>转换得到。未来打算制作 SVG Logo。</p>
 <p><img src="/" class="lazyload" data-src="http://q7y4py6en.bkt.clouddn.com/static/images/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/3.png"  alt="ykn"></p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">avatar:</span></span><br><span class="line">  <span class="attr">img:</span> <span class="string">/img/ykn_circle.png</span></span><br><span class="line">  <span class="attr">effect:</span> <span class="literal">false</span> <span class="comment"># 头像会一直转圈</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">avatar:</span></span><br><span class="line">  <span class="attr">img:</span> <span class="string">http://q7y4py6en.bkt.clouddn.com/static/images/theme/ykn_circle.png</span></span><br><span class="line">  <span class="attr">effect:</span> <span class="literal">false</span> <span class="comment"># 头像会一直转圈</span></span><br></pre></td></tr></table></figure>
 
 
 
