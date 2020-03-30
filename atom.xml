@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://indexql.world/"/>
-  <updated>2020-03-29T16:37:05.521Z</updated>
+  <updated>2020-03-30T14:06:26.499Z</updated>
   <id>http://indexql.world/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://indexql.world/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/"/>
     <id>http://indexql.world/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/</id>
     <published>2020-03-24T15:38:29.000Z</published>
-    <updated>2020-03-29T16:37:05.521Z</updated>
+    <updated>2020-03-30T14:06:26.499Z</updated>
     
     <content type="html"><![CDATA[<p>引用维基上的概念：</p><blockquote><p><strong>Singularity（奇点）</strong>，出自<a href="https://zh.wikipedia.org/wiki/奇點" target="_blank" rel="noopener">奇点</a>理论；根据<a href="https://zh.wikipedia.org/wiki/技术发展史" target="_blank" rel="noopener">技术发展史</a>总结出的观点，认为人类正在接近一个使得现有技术被完全抛弃或者人类文明被完全颠覆的事件点，在这个事件点以后的事件就像黑洞的<a href="https://zh.wikipedia.org/wiki/事件视界" target="_blank" rel="noopener">事件视界</a>一样完全无法预测。例如，<a href="https://zh.wikipedia.org/wiki/意识上传" target="_blank" rel="noopener">意识上传</a>技术可能使人类的意识摆脱有机体的约束，在这个奇点之后的人类文明是一种现在完全无法理解的水平。</p></blockquote><p>我是今年的两月初才开始玩 Arcaea 的。是我见过的比较硬核的音游。Emmmmmm 也是我之前玩的音游都太休闲了（特指邦邦）。</p><p>Arcaea 的适应花了大概一个月时间，所以现在能 FR 这首 10.4 定数的歌对我还是一个很大的鼓舞。这几天的上头死磕终于有所回报，一直以来的努力也没有全部木大。（嗯？）</p><p><img src="/" class="lazyload" data-src="http://q7y4py6en.bkt.clouddn.com/static/images/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/2.png"  alt="Singularity Song Cover"></p><p>其实要讲的是，第一次看到 Singularity 并不是在 Arcaea。而是在 2019 的第七届 RDMA 编程挑战赛，The 7th RDMA Programming Competition。这是由 HPC-AI Advisory Council 主办的面向亚太地区的竞赛。我们和清华大学并列二等奖，而一等奖则是中科大，膜。</p><p>题目是「Demonstrate the use of RDMA for HPC applications in a container environment」。而当时，组委会给出的二选一的 Container Solution 分别为 Docker 和 Singularity，而我们经过分析选择了前者。</p><p><img src="/" class="lazyload" data-src="http://q7y4py6en.bkt.clouddn.com/static/images/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/1.jpg"  alt="Singularity Container"></p><p>而在 Arcaea 中，当朋友（@星空夜）第一次给我推荐 Singularity 我就入迷了，简而言之就是好听！带感！天地交互帅！然而实际练起来却的确是地狱级的。所幸，坚持到现在我终于能把它 FR 了。</p><p>虽然 Arcaea 不是主业，但最近因为兴趣而认真起来的进步效率令人欣喜。当初 RDMA 编程挑战赛的遗憾在 Arcaea 中得以补偿，让我不由得相信努力的意义，希望在学业上也能这样找到兴趣、提高效率。首先从弥补上应补的课程，提升到应有的水平开始！</p><p>静下心来，路要一步一步走。</p><p>最后补一张结算图。</p><p><img src="/" class="lazyload" data-src="http://q7y4py6en.bkt.clouddn.com/static/images/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/3.jpg"  alt="Singularity Results"></p><h3 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h3><ul><li><a href="https://zh.wikipedia.org/wiki/技术奇异点" target="_blank" rel="noopener">https://zh.wikipedia.org/wiki/%E6%8A%80%E6%9C%AF%E5%A5%87%E5%BC%82%E7%82%B9</a></li></ul>]]></content>
     
