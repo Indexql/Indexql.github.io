@@ -3,7 +3,7 @@
   <entry>
     <title>今天 FR 了 Singularity</title>
     <url>/2020/03/24/%E4%BB%8A%E5%A4%A9%20FR%20%E4%BA%86%20Singularity/</url>
-    <content><![CDATA[<p>引用维基上的概念：</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>引用维基上的概念：</p>
 <blockquote>
 <p><strong>Singularity（奇点）</strong>，出自<a href="https://zh.wikipedia.org/wiki/奇點" target="_blank" rel="noopener">奇点</a>理论；根据<a href="https://zh.wikipedia.org/wiki/技术发展史" target="_blank" rel="noopener">技术发展史</a>总结出的观点，认为人类正在接近一个使得现有技术被完全抛弃或者人类文明被完全颠覆的事件点，在这个事件点以后的事件就像黑洞的<a href="https://zh.wikipedia.org/wiki/事件视界" target="_blank" rel="noopener">事件视界</a>一样完全无法预测。例如，<a href="https://zh.wikipedia.org/wiki/意识上传" target="_blank" rel="noopener">意识上传</a>技术可能使人类的意识摆脱有机体的约束，在这个奇点之后的人类文明是一种现在完全无法理解的水平。</p>
 </blockquote>
@@ -33,7 +33,7 @@
   <entry>
     <title>关于文字排版</title>
     <url>/2020/03/23/%E5%85%B3%E4%BA%8E%E6%96%87%E5%AD%97%E6%8E%92%E7%89%88/</url>
-    <content><![CDATA[<p>博客的文字排版问题，主要表现为<font color="red">「中英文混排时中文与英文之间是否要有空格」</font>这个问题。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>博客的文字排版问题，主要表现为<font color="red">「中英文混排时中文与英文之间是否要有空格」</font>这个问题。</p>
 <h3 id="「日常」"><a href="#「日常」" class="headerlink" title="「日常」"></a>「日常」</h3><p>首先，个人习惯在聊天过程中不加空格。苹果在 iOS 13 Beta 4 的更新中加入了中英文混排时自动增加显示间距的实现，终结了长期以来关于要不要添加空格的争论。我试用过一段时间的手动添加空格，倒不是说麻烦，只不过利用手机聊天的时候，苹果已经开启了最优适配。而另一方面，用户其实并不能识别出有没有加空格，我甚至有时候会通过删除撤销来测试有没有空格的存在。我觉得有点多此一举，之后就都不加空格了。</p>
 <h3 id="「正式」"><a href="#「正式」" class="headerlink" title="「正式」"></a>「正式」</h3><p>但博客相比日常的聊天还是比较正式的文档类型，从自己的强迫症来说，作为有 Publish 或者 Post 性质的文章，其规范性还是应当被重视的。所以查阅了知乎和其他一些网站相关资料，得出的结论是：</p>
 <blockquote>
@@ -64,7 +64,7 @@
   <entry>
     <title>从零开始的博客更新日志</title>
     <url>/2020/03/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<h2 id="「起点」"><a href="#「起点」" class="headerlink" title="「起点」"></a>「起点」</h2><ul>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="「起点」"><a href="#「起点」" class="headerlink" title="「起点」"></a>「起点」</h2><ul>
 <li>决定使用静态博客框架 <code>Hexo</code> 进行搭建</li>
 <li>将搭建好的博客部署到 <code>Github</code> （后期可能考虑改为个人主页再部署到服务器上）</li>
 </ul>
